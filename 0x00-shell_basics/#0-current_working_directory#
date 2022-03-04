@@ -1,0 +1,6 @@
+#!bin/bash
+pwd
+C-x C-c
+y
+chmod u+x 0-current_working_directory
+cd alx-system_engineering_devops 0x00-shell_basics
